@@ -1,4 +1,3 @@
-# Mathematics & Computing
 <p align="center">
     <a href="https://github.com/DivyamSamarwal/Mathematics-and-Computing"><img src="https://github.com/DivyamSamarwal/Mathematics-and-Computing/blob/main/Important%20Resources/m%26c.png"></a>
     <i>Mathematics & Computing</i>
