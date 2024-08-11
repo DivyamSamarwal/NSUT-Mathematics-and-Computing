@@ -1,6 +1,6 @@
-### Mathematics & Computing
+# Mathematics & Computing
 
-#### Fundamentals
+## Fundamentals
 - Beware of plagiarism, make sure your code is not accessible to others
     - Run chmod 700 *filename*, when creating new files in public labs
 - **CP (Competitive Programming)**
@@ -53,7 +53,7 @@
         - Resources
             - Flutter CodeLabs and Tutorials
             - Udemy Courses
-##### Operating Systems and Linux
+### Operating Systems and Linux
     
 - Linux is a family of open source operating systems based on the linux kernel
 - Why Linux?
@@ -71,7 +71,7 @@
 - WSL (Windows Subsystem for Linux): If you only want to use linux on CLI but don’t want to switch from Windows [WSL Tutorial](https://www.youtube.com/watch?v=GvHc8KvoVIA)
 - You can also use secure shell (ssh) in your command-prompt to connect to your csc account, which is a linux machine, and use it.
 
-##### Courses
+#### Courses
 - Extremely important to refer to courses of study and recommended course structure
 - Do you core courses on time.
 - Look out for prerequisites and overlapping courses
@@ -80,18 +80,18 @@
 - Don’t fail important courses like which are prerequisite for many courses
 - Reach out to your seniors when in doubt
 
-##### Internships
+#### Internships
 - Spend your first year exploring stuff. (Coursera/YouTube/Udemy)
 - Find what you like and get very good at it 
 - Build your resume (get overleaf premium using NSUT id).
 - Work on projects
 - Dedicated sessions closer to intern season in the second and third year
 
-##### Git and GitHub
+#### Git and GitHub
 - Solution to versioning and collaborative development.
 - Make a github pro account using NSUT id! 
   
-##### StackOverFlow, Google, ChatGPT & Other
+#### StackOverFlow, Google, ChatGPT & Other
 - Learn how to get your queries answered from the internet
 - [Stack overflow](https://stackoverflow.com/)
 - [ChatGPT](https://chat.openai.com/)
@@ -111,7 +111,6 @@
 
 #### Typing
 - Extremely useful skill
-- Saves a lot of time !!!
 - [Keybr](https://www.keybr.com/), [Monkeytype](https://monkeytype.com/) and other similar sites to learn and practice
 - Compete against others on [Typeracer](https://play.typeracer.com/)
 
