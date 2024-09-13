@@ -2,10 +2,8 @@
     <a href="https://github.com/DivyamSamarwal/Mathematics-and-Computing"><img src="https://github.com/DivyamSamarwal/Mathematics-and-Computing/blob/main/Important%20Resources/m%26c.png"></a>
     <i>Mathematics & Computing</i>
 </p>
-
-## Fundamentals
-- Beware of plagiarism, make sure your code is not accessible to others
-    - Run chmod 700 *filename*, when creating new files in public labs
+--  **Quick Links**
+[Fresources](https://fresources.tech/home) , [Resource Hub](https://resource-hub.vercel.app/)
 - **CP (Competitive Programming)**
     - An intellectual sport
     - Contestants, known as sport programmers, are challenged to solve algorithmic problems as fast as possible 
